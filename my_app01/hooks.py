@@ -1,3 +1,4 @@
+// name
 app_name = "my_app01"
 app_title = "My App01 Test"
 app_publisher = "Ichiro Emmanuel Pongos"
